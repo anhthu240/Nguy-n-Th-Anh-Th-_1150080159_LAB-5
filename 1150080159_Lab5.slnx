@@ -3,4 +3,8 @@
     <File Path="input_array.txt" />
   </Folder>
   <Project Path="1150080159_Lab5/1150080159_Lab5.csproj" Id="cc498bf5-19fa-4b77-8346-868e09bff87b" />
+  <Project Path="Apdung1/Apdung1.csproj" Id="c2293194-82b1-495b-96bc-295235d2ca1a" />
+  <Project Path="Apdung2/Apdung2.csproj" Id="203fd751-9649-4f26-bfdf-598665afcd60" />
+  <Project Path="ThucHanh2/ThucHanh2.csproj" Id="ff0a95d5-88d3-40a9-bbcd-e515012640b3" />
+  <Project Path="WindowsFormsApp1(LAB5.2)/WindowsFormsApp1(LAB5.2).csproj" Id="1eeb8abd-1027-48fc-99b6-a82ae17124fe" />
 </Solution>
